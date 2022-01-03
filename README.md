@@ -7,8 +7,8 @@ Mouse-tracking is a method used to assess real-time cognitive processing in psyc
 ## Content
 This repository contains
   1. Data from Maldonado et al. (2019) and their script which we slighly modified. 
-  2. Data from our replication of (Spivet et al., 2009)
-  3. Python and R scripts for preprocessing and analysis of Spivey et al. (2009). 
+  2. Data from our replication of (Spivet et al., 2005)
+  3. Python and R scripts for preprocessing and analysis of Spivey et al. (2005). 
   4. Highlighted and important figures. 
 
 
