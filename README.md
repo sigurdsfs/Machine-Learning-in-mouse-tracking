@@ -11,4 +11,6 @@ This repository contains
   3. Python and R scripts for preprocessing and analysis of Spivey et al. (2009). 
   4. Highlighted and important figures. 
 
-Authors: Sigurd Fyhn Sørensen & Niels Aalund Krogsgaard. 
+
+## Contact Information
+Authors: Sigurd Fyhn Sørensen (202006317@post.au.dk) & Niels Aalund Krogsgaard (202008114@post.au.dk) 
